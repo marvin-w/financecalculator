@@ -49,6 +49,7 @@ end
 
 gem 'bootstrap-sass'
 
+gem 'whenever'
 gem 'dotenv-rails'  # Umgebungsvariablen setzen
 gem 'rails_12factor' # Deployment für Heroku
 gem 'pry-rails' # use pry statt irb
