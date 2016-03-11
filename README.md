@@ -1,5 +1,7 @@
 # FinanceCalculator
 
+[![Build Status](https://travis-ci.org/pointerxr/financecalculator.svg?branch=master)](https://travis-ci.org/pointerxr/financecalculator)
+
 This file covers some documentation about the finance calculator as well as used software, how to install and things that need to be done to get the application up and running.
 
 ## Installation
